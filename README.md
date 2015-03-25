@@ -1,5 +1,9 @@
 # opk-bmp180
 
+Requires Sparkfun BMP180 library, here:
+
+https://github.com/sparkfun/BMP180_Breakout/tree/master/software/Arduino/libraries/SFE_BMP180
+
 Hardware connections:
 
 - (GND) to GND
